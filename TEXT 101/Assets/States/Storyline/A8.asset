@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ffb36647611d054aa106e76134384e9, type: 3}
+  m_Name: A8
+  m_EditorClassIdentifier: 
+  storytext: 'You slink through the machinery towards 2 skanky looking men. The tall,
+    scrawny one is carrying an oversized gas-canister-powered arrow shooter, while
+    the shorter dumpy man has strapped to him at least a dozen small glass bottles
+    with grey liquid inside.
+
+    
+
+    The stout fellow finishes cranking a large
+    valve (clockwise you notice) and then both men dash off with much haste.
+
+    
+
+    What
+    to do?
+
+    
+
+    1. Quick, uncrank that valve, they were clearly up to no
+    good.
+
+    2. Chase the men.'
+  next:
+  - {fileID: 11400000, guid: d0105af25228fd54482601ac817fb574, type: 2}
+  - {fileID: 11400000, guid: cbf40332b7b6b424b96c3c2a2e19c244, type: 2}
